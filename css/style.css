@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+.topHeader {
+    background-color:darkslategray;
+    width: 100% ;
+    padding: 20px;
+    float: left;
+}
+
+.logo {
+    float: left;
+    width: 100px;
+    margin-right: 100px;
+}
+
+.logoText {
+    float: left;
+    color:white;
+}
+
+.container{
+    float: left;
+}
+
+.menu{
+    float: left;
+    width: 15%;
+    margin: 10px;
+}
+
+.menuItem{
+    pad: 10px;
+    margin-top: 7px;
+    border-bottom: 1px solid gray;
+}
+
+.main{
+    margin-top: 15px;
+    float: left;
+    width: 60%;
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.main p{
+    margin-top: 15px;
+}
+
+.main img{
+    margin-top: 15px;
+}
+
+.menuKanan{
+    background-color: cadetblue;
+    float: left;
+    width: 20%;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.menuKanan h2, p, img{
+    margin-top: 10px;
+}
+
+.footer{
+float: left;
+padding: 10px;
+background-color: black;
+width: 100%;
+height: auto;
+color: white;
+text-align: center;
+}
+
